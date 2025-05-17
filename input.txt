@@ -1,8 +1,4 @@
-x = 2 + 3
-y = 3
-z = x + y
-z
-
-
-
-
+prueba """Paso fuera de bloque""" 
+dado usuario es """activo"""
+cuando usuario contiene """credenciales"""
+entonces usuario es """logueado"""
