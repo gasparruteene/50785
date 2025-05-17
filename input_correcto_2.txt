@@ -1,0 +1,5 @@
+prueba """Registro de nuevo usuario""" {
+dado sistema contiene """formulario de registro"""
+cuando usuario es """nuevo"""
+entonces sistema contiene """usuario registrado"""
+}
