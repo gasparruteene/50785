@@ -1,0 +1,5 @@
+prueba """Test de login exitoso""" {
+dado usuario es """activo"""
+cuando usuario contiene """credenciales válidas"""
+entonces usuario es """logueado exitosamente"""
+}
