@@ -1,0 +1,4 @@
+prueba """Paso fuera de bloque""" 
+dado usuario es """activo"""
+cuando usuario contiene """credenciales"""
+entonces usuario es """logueado"""
