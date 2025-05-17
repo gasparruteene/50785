@@ -1,0 +1,5 @@
+prueba """Error en palabra clave y valor""" {
+dado usuario está """activo"""
+cuando usuario contiene perfilCompleto
+entonces usuario es """visible"""
+}
